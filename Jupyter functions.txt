@@ -1,0 +1,25 @@
+Procedure form
+function
+ procedure dont return value
+function return value
+procedure = function
+can be used both
+ 
+System:
+in entities form
+aslo called objects
+
+first things for system:
+properties of objects
+behavious or actions
+
+object orrientated programming
+data + procedure = Encapsulation
+
+Three pillar of Object orientated programming
+1: Encapsulation
+2:inheritance
+3:polymorphism
+
+self.name = class variable
+name= local variable
